@@ -58,7 +58,8 @@ where:
 
 ## 🚀 Installation
 
-1. Clone the repository:  git clone https://github.com/username/classic-oscillator.git
+1. Clone the repository: git clone https://github.com/pagrid/Classical-Physics.git
+
 2. Install dependencies: pip install -r requirements.txt
 3. Run the notebook: jupyter notebook
 4. Open classic_harmonic_oscillator.py and start experimenting!
