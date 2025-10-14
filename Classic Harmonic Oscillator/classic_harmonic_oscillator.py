@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Untitled0.ipynb
+"""calssic_harmonic_oscillator.ipynb
 
 Harmonic Oscillator Simulation
 ------------------------------
