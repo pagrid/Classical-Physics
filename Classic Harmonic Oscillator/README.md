@@ -13,6 +13,7 @@ This project compares different numerical integration methods, analyzes energy b
 - 🌊 **Damped & driven oscillator:** Includes damping coefficient and external driving force  
 - 🎚️ **Interactive visualization:** Real-time sliders using `ipywidgets`  
 - 🔧 **Flexible parameters:** Easily adjustable to explore different physical regimes
+
 ---
 
 ## 🧠 Background
@@ -21,15 +22,15 @@ The harmonic oscillator is one of the most fundamental models in physics, descri
 
 The governing equation: 
 
-\[
+$$
 \frac{d^2x}{dt^2} + \gamma \frac{dx}{dt} + \omega^2 x = F_0 \cos(\omega_d t)
-\]
+$$
 
 where:  
-- \( \omega \): natural frequency  
-- \( \gamma \): damping coefficient  
-- \( F_0 \): driving force amplitude  
-- \( \omega_d \): driving force frequency  
+- $\omega$: natural frequency  
+- $\gamma$: damping coefficient  
+- $F_0$: driving force amplitude  
+- $\omega_d$: driving force frequency  
 
 💡 **Note:** This system exhibits interesting phenomena such as damping, resonance, and energy exchange between kinetic and potential forms.
 
@@ -43,28 +44,6 @@ where:
 ### 🔹 Damped Driven Oscillator
 ![Damped Driven Oscillator](damped_driven_oscillator.png)
 
-
 ---
 
-## 🧰 Technologies Used
 
-| Category | Libraries |
-|-----------|------------|
-| **Core** | `Python`, `NumPy`, `SciPy`, `Matplotlib` |
-| **Interactive** | `ipywidgets` |
-| **Development** | `Jupyter Notebook` |
-
----
-
-## 🚀 Installation
-
-1. Clone the repository: git clone https://github.com/pagrid/Classical-Physics.git
-
-2. Install dependencies: pip install -r requirements.txt
-3. Run the notebook: jupyter notebook
-4. Open classic_harmonic_oscillator.py and start experimenting!
-
----
-
-## 📝 License
-This project is released under the [MIT License](LICENSE).
