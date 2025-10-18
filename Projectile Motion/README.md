@@ -24,15 +24,6 @@ This project demonstrates single and multiple angle launches, allowing visualiza
 
 ---
 
-## 🧰 Technologies Used
-
-| Category | Libraries |
-|-----------|------------|
-| **Core** | `Python`, `NumPy`, `Matplotlib` |
-| **Development** | `Jupyter Notebook` |
-
----
-
 
 ## 📝 License
 This project is released under the [MIT License](LICENSE).
